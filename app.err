@@ -1,0 +1,4 @@
+Warning[2058] D:\jo\Ideonics\Repository\AO_Smith_Firmware_Keypad\source\app.c 71 : call of function without prototype
+Warning[2054] D:\jo\Ideonics\Repository\AO_Smith_Firmware_Keypad\source\app.c 88 : suspicious pointer conversion
+Warning[2054] D:\jo\Ideonics\Repository\AO_Smith_Firmware_Keypad\source\app.c 105 : suspicious pointer conversion
+Warning[2058] D:\jo\Ideonics\Repository\AO_Smith_Firmware_Keypad\source\app.c 173 : call of function without prototype
